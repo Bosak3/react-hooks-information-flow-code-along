@@ -11,3 +11,22 @@ function App() {
 }
 
 export default App;
+
+
+
+
+
+/* 
+        < App >
+        
+          < Parent >
+
+            < Child >
+
+            < randomColorGenerator >
+
+
+
+
+
+*/
